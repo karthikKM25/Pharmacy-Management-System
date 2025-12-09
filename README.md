@@ -3,8 +3,6 @@ A full-featured **Java Swing + MySQL** based Pharmacy Management System designed
 Built using **NetBeans IDE**, this project provides an intuitive GUI and reliable database-backed operations for small to medium pharmacy stores.
 
 ---
-
-## 🏷️ Badges
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
